@@ -2,7 +2,16 @@
 
 Este proyecto implementa un formulario de registro de usuario con un diseño moderno "split" (dividido), validaciones completas del lado del cliente y pruebas automatizadas con Cypress. El sistema presenta una experiencia visual atractiva con animaciones y efectos, mientras mantiene todas las funcionalidades de validación requeridas.
 
-![Captura del formulario NaturaTech](carlosvideo.mp4)
+## Demostración
+
+<div align="center">
+  <a href="https://github.com/user/repo/assets/video/carlosvideo.mp4">
+    <img src="https://github.com/user/repo/assets/images/thumbnail.png" alt="Ver demo del formulario" width="600">
+  </a>
+  <p><em>Haz clic en la imagen para ver la demostración</em></p>
+</div>
+
+[Ver video de demostración](https://github.com/user/repo/raw/main/carlosvideo.mp4)
 
 ## Características
 
