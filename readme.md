@@ -4,7 +4,7 @@ Este proyecto implementa un formulario de registro de usuario con un diseño mod
 
 ## Demostración
 
-![Captura del formulario NaturaTech](carlosvideo.mp4)
+![Captura del formulario NaturaTech](carlosvideo.gif)
 
 
 ## Características
